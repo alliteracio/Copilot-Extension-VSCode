@@ -1,0 +1,6 @@
+@CopilotExtensionVSCode_HostAddress = http://localhost:5263
+
+GET {{CopilotExtensionVSCode_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
